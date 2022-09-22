@@ -1,7 +1,7 @@
 ### Olá! sou Weldon Thallysson 👋
 
 - 🔭 projetos para pequenas empresas
-- 🌱 Atualmenteestou aprendendo, React/react-native.
+- 🌱 Atualmente estou Trabalhando com React/react-native.
 - 👯 Estou procurando colaborar com o desenvolvimento android
 <div align="center">
   <a href="https://github.com/WeldonThallysson/WeldonThallysson">
