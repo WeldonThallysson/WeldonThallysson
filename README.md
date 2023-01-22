@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/WeldonThallysson/WeldonThallysson">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weldon Thallysson&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeldonThallysson&show_icons=true&theme=dark)
 
 </div>
 <div style="display: flex;" align="center"><br><br>
