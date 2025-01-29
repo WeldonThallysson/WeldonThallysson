@@ -10,8 +10,8 @@
 
 ## 🛠️ Tecnologias que utilizo:
 <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40">
@@ -23,7 +23,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="40" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Bitbucket-blue-logomark-only.svg" alt="BitBucket" height="40" width="40">
+ 
 </div>
 
 ---
