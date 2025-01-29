@@ -5,7 +5,7 @@
 🔹 Especializado em **React.js, React Native, Node.js e bancos de dados SQL e NoSQL**  
 🔹 Focado em **performance, usabilidade e experiência do usuário**  
 🔹 Sempre buscando **colaborar em projetos inovadores e de impacto**  
-🔹 Novas Stacks em Andamento...**
+
 ---
 
 ## 🛠️ Tecnologias que utilizo:
