@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trabalho com **Desenvolvimento Web, Mobile e Back-end**, criando soluções eficientes e escaláveis para pequenas empresas e startups.  
 
-🔹 Especializado em **React.js, React Native, Node.js e bancos de dados SQL e NoSQL**  
+🔹 Especializado em **Angular, React.js, React Native, Node.js e bancos de dados SQL e NoSQL**  
 🔹 Focado em **performance, usabilidade e experiência do usuário**  
 🔹 Sempre buscando **colaborar em projetos inovadores e de impacto**  
 
