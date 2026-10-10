@@ -1,74 +1,86 @@
-# Weldon Thallysson
+<div align="center">
 
-### Desenvolvedor Full Stack Pleno · React, Angular, Node.js e NestJS
+<img src="./profile-banner.svg" width="100%" alt="Weldon Thallysson — Full Stack Developer. React, Angular, Node.js, NestJS e React Native." />
 
-Mais de 4 anos de experiência em desenvolvimento web, back-end e mobile. Atuo em produtos de saúde, esporte, turismo e economia circular, com foco em APIs, integrações, refatoração e evolução de sistemas em produção.
+**WEB · BACK-END · MOBILE · PRODUTOS EM PRODUÇÃO**
 
-**Disponível para oportunidades remotas em Full Stack, Front-end, Back-end e Mobile.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weldonthallysson/)
+[![Email](https://img.shields.io/badge/Email-Contato-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weldon.dev.enginner@gmail.com)
+[![Remoto](https://img.shields.io/badge/Oportunidades-100%25_Remoto-8B5CF6?style=for-the-badge)](https://www.linkedin.com/in/weldonthallysson/)
 
-[LinkedIn](https://www.linkedin.com/in/weldonthallysson/) · [E-mail](mailto:weldon.dev.enginner@gmail.com)
+[Projetos em produção](#-experiência-em-produção) · [Tecnologias](#-minha-stack) · [Explore meu código](#-explore-meu-código)
 
-## Experiência em produtos em produção
+</div>
 
-### 1. Plataformas de sócio-torcedor — Feng
+## Olá, sou o Weldon 👋
 
-Desenvolvimento e manutenção de plataformas de sócio-torcedor de alto tráfego para Flamengo, Maracanã Club, São Paulo, Barcelona Guayaquil, Botafogo, Fluminense e Vasco, com Angular, TypeScript, Node.js, NestJS, AdonisJS e PostgreSQL. Atuação em e-commerce, checkout, PIX, integrações com A&G e Reshop e resolução de incidentes em produção.
+**Desenvolvedor Full Stack Pleno com mais de 4 anos de experiência.** Construo e evoluo aplicações web, APIs e produtos mobile nos setores de esporte, saúde, turismo e economia circular. Minha experiência conecta interfaces, regras de negócio, integrações e sustentação em produção.
 
-Responsável pelo desenvolvimento do front-end de toda a nova versão da plataforma do Fluminense (Nense). Assumi temporariamente responsabilidades de Tech Lead, com decisões técnicas, code review, mentoria e pré-refinamento, contribuindo para a evolução do indicador de entrega e qualidade do time de **40% para 90%**.
+<table><tr>
+<td width="33%" valign="top"><h3>01 / INTERFACES</h3>React e Angular, componentes reutilizáveis, formulários e evolução de interfaces.</td>
+<td width="33%" valign="top"><h3>02 / ARQUITETURA</h3>Node.js e NestJS, APIs REST, DDD, arquitetura hexagonal e integrações.</td>
+<td width="33%" valign="top"><h3>03 / MOBILE</h3>React Native CLI e Ionic, autenticação, dados e experiências conectadas.</td>
+</tr></table>
 
-### 2. Circulare — Circular Brain
+## 🚀 Experiência em produção
 
-Desenvolvimento back-end para logística reversa e gestão de resíduos. Atuação com Node.js, Express, PostgreSQL e MongoDB em MVC e na evolução para NestJS com arquitetura hexagonal e DDD. Construção do chatbot com Botpress integrado à Meta WhatsApp Business API para solicitações de coleta, além de IA conversacional, automações e ferramentas internas.
+<table>
+<tr>
+<td width="50%" valign="top"><h3>⚽ Plataformas de sócio-torcedor</h3><b>FENG Brasil · Full Stack</b><p>Flamengo, Maracanã Club, São Paulo, Barcelona Guayaquil, Botafogo, Fluminense e Vasco. E-commerce, checkout, PIX e integrações A&G e Reshop em aplicações de alto tráfego.</p><p><b>Angular · TypeScript · Node.js · NestJS · PostgreSQL</b></p>Responsável pelo front-end da nova plataforma <b>Nense / Fluminense</b>. Atuação temporária como Tech Lead, com code review e mentoria.</td>
+<td width="50%" valign="top"><h3>♻️ Circulare</h3><b>Circular Brain · Back-end</b><p>Gestão de resíduos e logística reversa. Evolução de MVC com Express para NestJS com arquitetura hexagonal e DDD.</p><p><b>Node.js · NestJS · PostgreSQL · MongoDB</b></p>Chatbot com <b>Botpress + Meta WhatsApp Business API</b> para solicitações de coleta e automações internas.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>🏥 Solus Saúde & H2J ERP</h3><b>TMR Consultoria · Front-end</b><p>Interfaces responsivas, componentes reutilizáveis e refatoração de sistemas de saúde, ERP e CRM.</p><p><b>React · TypeScript · Redux · Zustand · React Query · Zod</b></p><a href="https://novo.solus.inf.br/">Solus Saúde ↗</a> · <a href="https://h2j.com.br/">H2J ↗</a></td>
+<td width="50%" valign="top"><h3>🏞️ Resort dos Canyons</h3><b>Plataforma de gestão turística</b><p>Do desenvolvimento ao deploy: CMS, ERP, PDV, reservas, vendas e pagamentos com PagBank e Sicredi.</p><p><b>React · Zustand · Express · PostgreSQL</b></p><a href="https://resortdoscanyons.com.br/">Conhecer o projeto ↗</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>📱 K2B & FAP Clínicas</h3><b>Kompa Saúde · Mobile e Web</b><p>Agendamento, geolocalização, autenticação, acesso por perfil e chatbots com WebSockets. Atuação em deploy e ambientes produtivos.</p><b>React · Ionic · TypeScript · WebSockets</b></td>
+<td width="50%" valign="top"><h3>🛒 K-Vendas & Cuiabautos Pneus</h3><b>Kasterweb · Mobile</b><p>Aplicativos para vendas, pedidos, CRM e e-commerce. Arquitetura mobile, APIs REST e evolução do estado com Redux.</p><p><b>React Native · Redux · APIs REST</b></p><a href="https://play.google.com/store/apps/details?id=com.kvendas2&hl=pt_BR">K-Vendas no Google Play ↗</a></td>
+</tr>
+</table>
 
-### 3. Solus Saúde e H2J — TMR
+<table><tr><td width="50%" align="center"><h3>40% → 90%</h3>Indicador de entrega e qualidade do time<br/>Contribuição durante minha atuação na FENG</td><td width="50%" align="center"><h3>R$ 24 mil+</h3>Vendas na inauguração<br/>Plataforma Resort dos Canyons</td></tr></table>
 
-Desenvolvimento e refatoração de interfaces React e TypeScript para sistemas de saúde e gestão empresarial. Utilização de Redux, Context API, Zustand, React Query, Axios, Hooks, Zod e React Hook Form, com participação em code reviews.
+**Outros trabalhos do portfólio:** [CourtX](https://courtx.com.br/) · [RN Terraplanagem](https://rnterraplanagem.com.br/) · [UpStudio](https://upstudiodigital.com.br/)
 
-[Solus Saúde](https://novo.solus.inf.br/) · [H2J](https://h2j.com.br/)
+## 🧩 Minha stack
 
-### 4. Resort dos Canyons
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,nodejs,nestjs,express,postgres,mongodb,mysql,docker,aws,git&perline=7" alt="React, Angular, Next.js, TypeScript, JavaScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, MySQL, Docker, AWS e Git" />
+</div>
 
-Desenvolvimento de solução com React, Zustand, Node.js, Express e PostgreSQL, incluindo reservas, vendas, CMS, ERP e PDV, integrações com PagBank e Sicredi e implantação. A plataforma registrou **mais de R$ 24 mil em vendas na inauguração**.
+| Área | Tecnologias e práticas |
+| :--- | :--- |
+| **Front-end** | React, Angular, Next.js, Redux, Context API, Zustand, React Query, React Hook Form, Zod, HTML e CSS |
+| **Back-end** | Node.js, NestJS, Express, AdonisJS, APIs REST, PostgreSQL, MongoDB, MySQL, DDD e arquitetura hexagonal |
+| **Mobile** | React Native CLI, Ionic, autenticação e integração com APIs |
+| **Integrações** | Botpress, Meta WhatsApp Business API, WebSockets, checkout e PIX |
+| **Qualidade e entrega** | Code review, Jest, Testing Library, Jasmine, TDD, Docker, CI/CD, AWS S3 e Lambda |
 
-[Conhecer o projeto](https://resortdoscanyons.com.br/)
+## 💻 Explore meu código
 
-### 5. Aplicações mobile — Kompa Saúde e Kasterweb
+<table><tr>
+<td width="50%" valign="top"><h3>01 · API de receitas</h3><p>Autenticação JWT, usuários, categorias e receitas, com documentação Swagger e ambiente Docker.</p><b>Node.js · TypeScript · Express · Prisma · MySQL · Jest</b><p><a href="https://github.com/WeldonThallysson/Backend_Receitas_Culinarias">Código e documentação ↗</a></p></td>
+<td width="50%" valign="top"><h3>02 · Aplicativo de receitas</h3><p>Aplicativo mobile com autenticação, gestão de receitas e perfil, integrado a APIs REST.</p><b>React Native CLI · TypeScript · Zustand · Zod · Axios</b><p><a href="https://github.com/WeldonThallysson/Mobile_Receitas_Culinarias">Código e documentação ↗</a></p></td>
+</tr><tr>
+<td width="50%" valign="top"><h3>03 · AutoCar</h3><p>Aplicação web com navegação, formulários e integração Firebase.</p><b>React · TypeScript · Vite · Firebase · React Hook Form</b><p><a href="https://github.com/WeldonThallysson/Sistema_AutoCar">Explorar projeto ↗</a></p></td>
+<td width="50%" valign="top"><h3>04 · Space Call</h3><p>Sistema de chamados com autenticação e rotas protegidas.</p><b>React · Firebase · React Router</b><p><a href="https://github.com/WeldonThallysson/Space_Call_Sistema_de_Chamados">Explorar projeto ↗</a></p></td>
+</tr></table>
 
-Atuação em aplicações de saúde e vendas: K2B/FAP Clínicas, K-Vendas e Cuiabautos Pneus. Experiência com React Native, Ionic, TypeScript, APIs REST, autenticação, agendamento, geolocalização e integrações.
+**05 · [Flynvi — sistema de viagens](https://github.com/WeldonThallysson/Flynvi-sistema-de-viagens):** demonstração com React, Redux, Redux Saga e API simulada.
 
-[K-Vendas no Google Play](https://play.google.com/store/apps/details?id=com.kvendas2&hl=pt_BR)
+[Ver todos os repositórios →](https://github.com/WeldonThallysson?tab=repositories)
 
-### Outros trabalhos do portfólio
+## 🎓 Formação & certificações
 
-[CourtX](https://courtx.com.br/) · [RN Terraplanagem](https://rnterraplanagem.com.br/) · [UpStudio](https://upstudiodigital.com.br/)
+**Engenharia de Software** · Descomplica Faculdade Digital · Em andamento  
+**Meta Front-End Developer Professional Certificate** · Coursera / Meta  
+React Native · TypeScript Avançado · Microcertificados em Engenharia de Software
 
-## Projetos públicos para explorar meu código
+---
 
-| Prioridade | Projeto | Tecnologias e foco |
-| --- | --- | --- |
-| 1 | [API de receitas](https://github.com/WeldonThallysson/Backend_Receitas_Culinarias) | Node.js, TypeScript, Express, Prisma, MySQL, Docker, JWT, Swagger e Jest. API com autenticação, usuários, categorias e receitas. |
-| 2 | [Aplicativo de receitas](https://github.com/WeldonThallysson/Mobile_Receitas_Culinarias) | React Native CLI, TypeScript, Zustand, React Hook Form, Zod e Axios. Interface mobile integrada ao back-end. |
-| 3 | [Sistema AutoCar](https://github.com/WeldonThallysson/Sistema_AutoCar) | React, TypeScript, Vite, Firebase, React Router, React Hook Form e Zod. |
-| 4 | [Space Call](https://github.com/WeldonThallysson/Space_Call_Sistema_de_Chamados) | React, Firebase e React Router. Sistema de chamados com autenticação e navegação protegida. |
-| 5 | [Flynvi](https://github.com/WeldonThallysson/Flynvi-sistema-de-viagens) | React, Redux, Redux Saga e React Router. Projeto demonstrativo de viagens com API simulada. |
-
-## Tecnologias da minha experiência profissional
-
-**Front-end:** React · Angular · Next.js · TypeScript · JavaScript · HTML · CSS · Redux · Zustand · React Query · React Hook Form · Zod
-
-**Back-end:** Node.js · NestJS · Express · AdonisJS · APIs REST · PostgreSQL · MongoDB · MySQL · DDD · Arquitetura hexagonal
-
-**Mobile:** React Native CLI · Ionic · Integração com APIs · Autenticação
-
-**Integrações:** Botpress · Meta WhatsApp Business API · WebSockets · Checkout · PIX
-
-**Qualidade e entrega:** Git · Code review · Jest · Testing Library · TDD · AWS · Docker · CI/CD
-
-## Formação
-
-- Engenharia de Software — Descomplica, em andamento.
-- Meta Front-End Developer — certificação profissional, abril de 2025.
-
-## Vamos conversar
-
-Busco contribuir com times que desenvolvem e evoluem produtos reais. Para oportunidades remotas ou conversas técnicas, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/weldonthallysson/) ou por [e-mail](mailto:weldon.dev.enginner@gmail.com).
+<div align="center">
+<h3>Vamos construir o próximo produto?</h3>
+<p>Disponível para oportunidades <b>remotas</b> em Full Stack, Front-end, Back-end e Mobile.</p>
+<a href="https://www.linkedin.com/in/weldonthallysson/">LinkedIn</a> · <a href="mailto:weldon.dev.enginner@gmail.com">weldon.dev.enginner@gmail.com</a>
+</div>
