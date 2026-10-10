@@ -12,11 +12,13 @@ Mais de 4 anos de experiência em desenvolvimento web, back-end e mobile. Atuo e
 
 ### 1. Plataformas de sócio-torcedor — Feng
 
-Atuação em plataformas de clubes como Flamengo, Fluminense e São Paulo FC, com Angular, Node.js, NestJS, AdonisJS e PostgreSQL. Participação em integrações de pagamentos, evolução de funcionalidades, revisão de código e apoio técnico ao time.
+Desenvolvimento e manutenção de plataformas de sócio-torcedor de alto tráfego para Flamengo, Maracanã Club, São Paulo, Barcelona Guayaquil, Botafogo, Fluminense e Vasco, com Angular, TypeScript, Node.js, NestJS, AdonisJS e PostgreSQL. Atuação em e-commerce, checkout, PIX, integrações com A&G e Reshop e resolução de incidentes em produção.
+
+Responsável pelo desenvolvimento do front-end de toda a nova versão da plataforma do Fluminense (Nense). Assumi temporariamente responsabilidades de Tech Lead, com decisões técnicas, code review, mentoria e pré-refinamento, contribuindo para a evolução do indicador de entrega e qualidade do time de **40% para 90%**.
 
 ### 2. Circulare — Circular Brain
 
-Desenvolvimento back-end para logística reversa e gestão de resíduos. Atuação com Node.js, Express, PostgreSQL e MongoDB em MVC e na evolução para NestJS com arquitetura hexagonal e DDD. Integrações e automações, incluindo chatbot para agendamento de coletas pelo WhatsApp.
+Desenvolvimento back-end para logística reversa e gestão de resíduos. Atuação com Node.js, Express, PostgreSQL e MongoDB em MVC e na evolução para NestJS com arquitetura hexagonal e DDD. Construção do chatbot com Botpress integrado à Meta WhatsApp Business API para solicitações de coleta, além de IA conversacional, automações e ferramentas internas.
 
 ### 3. Solus Saúde e H2J — TMR
 
@@ -26,7 +28,7 @@ Desenvolvimento e refatoração de interfaces React e TypeScript para sistemas d
 
 ### 4. Resort dos Canyons
 
-Desenvolvimento de solução com React, Zustand, Node.js, Express e PostgreSQL, incluindo reservas, vendas, CMS, ERP e PDV, integrações com PagBank e Sicredi e implantação.
+Desenvolvimento de solução com React, Zustand, Node.js, Express e PostgreSQL, incluindo reservas, vendas, CMS, ERP e PDV, integrações com PagBank e Sicredi e implantação. A plataforma registrou **mais de R$ 24 mil em vendas na inauguração**.
 
 [Conhecer o projeto](https://resortdoscanyons.com.br/)
 
@@ -57,6 +59,8 @@ Atuação em aplicações de saúde e vendas: K2B/FAP Clínicas, K-Vendas e Cuia
 **Back-end:** Node.js · NestJS · Express · AdonisJS · APIs REST · PostgreSQL · MongoDB · MySQL · DDD · Arquitetura hexagonal
 
 **Mobile:** React Native CLI · Ionic · Integração com APIs · Autenticação
+
+**Integrações:** Botpress · Meta WhatsApp Business API · WebSockets · Checkout · PIX
 
 **Qualidade e entrega:** Git · Code review · Jest · Testing Library · TDD · AWS · Docker · CI/CD
 
